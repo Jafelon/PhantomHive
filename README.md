@@ -22,8 +22,7 @@ If you would like to know how the things posted here are created please dm on my
 [Link](url) https://twitter.com/Jaeflon
 
 
-[img]https://i.imgur.com/NX18yHf.png[/img]
-
+![](https://imgur.com/NX18yHf)
 
 
 
