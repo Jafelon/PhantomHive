@@ -11,19 +11,23 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Creation : 
+Website domain is from github, creator of this place is Jaeflon(Night). 
+# Work :
+These are my personal things I've created some are from tutorials. However depsite that it is still my work and so please do not steal any of them. 
+# Learn :
+If you would like to know how the things posted here are created please dm on my Twitter @rpundokm Or easily go to my profile https://github.com/Jafelon and press the twitter link. 
 
 - Bulleted
+
+
 - List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+**Bold** and _Italic_ and `Links : ` text
+
+[Link](url) https://twitter.com/Jaeflon ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
