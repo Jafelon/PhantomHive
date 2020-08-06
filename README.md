@@ -2,7 +2,7 @@
 <h1> Welcome to PhantomHive </h1>
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+``` Please read the 3 lines before continuing```
 
 
 
