@@ -17,8 +17,8 @@ If you would like to know how the things posted here are created please dm on my
 
 
 <div class="border border-black-fade bg-red-light p-2 mb-2">
- Github Profile --->  https://github.com/Jafelon
- Twitter Profile ---> https://twitter.com/Jaeflon
+  https://github.com/Jafelon
+  https://twitter.com/Jaeflon
 </div>
 
 
