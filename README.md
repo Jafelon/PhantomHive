@@ -17,13 +17,15 @@ If you would like to know how the things posted here are created please dm on my
 
 
 
-<div class="border">
-🐱 https://github.com/Jafelon 
+<div class="border border-red mb-2">
+  🐱 https://github.com/Jafelon 
+ 
 
 -- My Links
 
  🐦 https://twitter.com/Jaeflon
-</div>  
+
+</div>
 
 
 
