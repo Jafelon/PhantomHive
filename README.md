@@ -16,11 +16,11 @@ If you would like to know how the things posted here are created please dm on my
 
 
 
-[Link](url) https://github.com/Jafelon
+[Link https://github.com/Jafelon ](url) https://github.com/Jafelon
 
  <h2>My Links</h2>
 
-[Link](url) https://twitter.com/Jaeflon 
+[Link https://twitter.com/Jaeflon  ](url) https://twitter.com/Jaeflon 
 
 
 
