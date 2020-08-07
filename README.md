@@ -16,17 +16,12 @@ If you would like to know how the things posted here are created please dm on my
 
 
 
-
-<div class="text-gray-dark mb-2">
-  🐱 https://github.com/Jafelon
-</div> 
-
+[Link](url) https://github.com/Jafelon
 
  <h2>My Links</h2>
 
-<div class="text-gray-dark mb-2">
-🐦 https://twitter.com/Jaeflon 
-</div>
+[Link](url) https://twitter.com/Jaeflon 
+
 
 
 
